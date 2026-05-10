@@ -1,0 +1,16 @@
+{
+  "name": "darwin-gia-wedding-rsvp",
+  "version": "1.0.0",
+  "description": "Wedding RSVP system for Darwin & Gia",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
